@@ -2,6 +2,10 @@
 
 Bot to play the 1to50 (zzzscore.com/1to50/) online game
 
+### Blog
+
+Read more about the intuition and howto @ [here](https://medium.com/@MohitMayank/how-i-beat-the-online-game-1to50-with-neural-network-6ded10a986e4?source=friends_link&sk=157956cec8561f666a5f664e0abbe8ea).
+
 ### Usage
 
 To load the image and train the neural network
