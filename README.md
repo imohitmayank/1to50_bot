@@ -12,7 +12,7 @@ To load the image and train the neural network
 
 ```
 from game_bot_1to50 import *
-model = train_network(image_directory = "imgs")
+model = train_network(image_directory = "imgs/")
 save_model(model, "1to50_trained_model.h5")
 ```
 To load the model and play the game
